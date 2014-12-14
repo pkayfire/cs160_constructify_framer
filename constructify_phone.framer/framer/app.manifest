@@ -1,0 +1,136 @@
+CACHE MANIFEST
+# 1418247483.814426
+CACHE:
+/_server/server.js
+../.temp.html
+../app.coffee
+../framer/.bowerrc
+../framer/app.manifest
+../framer/backup.coffee
+../framer/coffee-script.js
+../framer/config.json
+../framer/framer.generated.js
+../framer/framer.js
+../framer/framer.js.map
+../framer/images/background.png
+../framer/images/cursor.png
+../framer/images/cursor@2x.png
+../framer/images/icon-120.png
+../framer/images/icon-152.png
+../framer/images/icon-76.png
+../framer/images/icon-arrow.png
+../framer/images/icon-arrow@2x.png
+../framer/images/icon-close.png
+../framer/images/icon-close@2x.png
+../framer/images/icon-framer.png
+../framer/images/icon-framer@2x.png
+../framer/images/icon-share.png
+../framer/images/icon-share@2x.png
+../framer/init.js
+../framer/mirror.css
+../framer/style.css
+../framer/version
+../images/framer-icon.png
+../imported/Constructify_Phone_2 updated/framerps.log
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy 2.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy 3.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy 4.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy 5.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy 6.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy 7.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item copy.png
+../imported/Constructify_Phone_2 updated/images/Create Project Item.png
+../imported/Constructify_Phone_2 updated/images/Create Project Screen.png
+../imported/Constructify_Phone_2 updated/images/Create Task Screen.png
+../imported/Constructify_Phone_2 updated/images/Detailed Task Screen.png
+../imported/Constructify_Phone_2 updated/images/Detailed Worker Screen copy 2.png
+../imported/Constructify_Phone_2 updated/images/Detailed Worker Screen copy.png
+../imported/Constructify_Phone_2 updated/images/Detailed Worker Screen.png
+../imported/Constructify_Phone_2 updated/images/Dividers copy 2.png
+../imported/Constructify_Phone_2 updated/images/Dividers copy 3.png
+../imported/Constructify_Phone_2 updated/images/Dividers copy 4.png
+../imported/Constructify_Phone_2 updated/images/Dividers copy.png
+../imported/Constructify_Phone_2 updated/images/Dividers-2.png
+../imported/Constructify_Phone_2 updated/images/Dividers.png
+../imported/Constructify_Phone_2 updated/images/Item copy 10.png
+../imported/Constructify_Phone_2 updated/images/Item copy 11.png
+../imported/Constructify_Phone_2 updated/images/Item copy 12.png
+../imported/Constructify_Phone_2 updated/images/Item copy 13.png
+../imported/Constructify_Phone_2 updated/images/Item copy 14.png
+../imported/Constructify_Phone_2 updated/images/Item copy 15.png
+../imported/Constructify_Phone_2 updated/images/Item copy 16.png
+../imported/Constructify_Phone_2 updated/images/Item copy 2.png
+../imported/Constructify_Phone_2 updated/images/Item copy 20.png
+../imported/Constructify_Phone_2 updated/images/Item copy 21.png
+../imported/Constructify_Phone_2 updated/images/Item copy 22.png
+../imported/Constructify_Phone_2 updated/images/Item copy 23.png
+../imported/Constructify_Phone_2 updated/images/Item copy 3.png
+../imported/Constructify_Phone_2 updated/images/Item copy 4.png
+../imported/Constructify_Phone_2 updated/images/Item copy 5.png
+../imported/Constructify_Phone_2 updated/images/Item copy 6.png
+../imported/Constructify_Phone_2 updated/images/Item copy 7.png
+../imported/Constructify_Phone_2 updated/images/Item copy 8.png
+../imported/Constructify_Phone_2 updated/images/Item copy 9.png
+../imported/Constructify_Phone_2 updated/images/Item copy-10.png
+../imported/Constructify_Phone_2 updated/images/Item copy-11.png
+../imported/Constructify_Phone_2 updated/images/Item copy-12.png
+../imported/Constructify_Phone_2 updated/images/Item copy-13.png
+../imported/Constructify_Phone_2 updated/images/Item copy-14.png
+../imported/Constructify_Phone_2 updated/images/Item copy-15.png
+../imported/Constructify_Phone_2 updated/images/Item copy-16.png
+../imported/Constructify_Phone_2 updated/images/Item copy-17.png
+../imported/Constructify_Phone_2 updated/images/Item copy-18.png
+../imported/Constructify_Phone_2 updated/images/Item copy-2.png
+../imported/Constructify_Phone_2 updated/images/Item copy-20.png
+../imported/Constructify_Phone_2 updated/images/Item copy-21.png
+../imported/Constructify_Phone_2 updated/images/Item copy-22.png
+../imported/Constructify_Phone_2 updated/images/Item copy-23.png
+../imported/Constructify_Phone_2 updated/images/Item copy-24.png
+../imported/Constructify_Phone_2 updated/images/Item copy-3.png
+../imported/Constructify_Phone_2 updated/images/Item copy-4.png
+../imported/Constructify_Phone_2 updated/images/Item copy-5.png
+../imported/Constructify_Phone_2 updated/images/Item copy-6.png
+../imported/Constructify_Phone_2 updated/images/Item copy-7.png
+../imported/Constructify_Phone_2 updated/images/Item copy-8.png
+../imported/Constructify_Phone_2 updated/images/Item copy-9.png
+../imported/Constructify_Phone_2 updated/images/Item copy.png
+../imported/Constructify_Phone_2 updated/images/Item-2.png
+../imported/Constructify_Phone_2 updated/images/Item-3.png
+../imported/Constructify_Phone_2 updated/images/Item-4.png
+../imported/Constructify_Phone_2 updated/images/Item-5.png
+../imported/Constructify_Phone_2 updated/images/Item-6.png
+../imported/Constructify_Phone_2 updated/images/Item.png
+../imported/Constructify_Phone_2 updated/images/Main Screen copy with update.png
+../imported/Constructify_Phone_2 updated/images/Main Screen with Menu.png
+../imported/Constructify_Phone_2 updated/images/Main Screen with Update.png
+../imported/Constructify_Phone_2 updated/images/Main Screen.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy 2.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy 3.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy 4.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy 5.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy 6.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy-2.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy-6.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy-7.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar copy.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar-2.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar-3.png
+../imported/Constructify_Phone_2 updated/images/Navigation Bar.png
+../imported/Constructify_Phone_2 updated/images/Side Menu.png
+../imported/Constructify_Phone_2 updated/images/Tasks Screen.png
+../imported/Constructify_Phone_2 updated/images/Tasks-2.png
+../imported/Constructify_Phone_2 updated/images/Tasks-3.png
+../imported/Constructify_Phone_2 updated/images/Tasks.png
+../imported/Constructify_Phone_2 updated/images/Workers copy 2.png
+../imported/Constructify_Phone_2 updated/images/Workers copy-2.png
+../imported/Constructify_Phone_2 updated/images/Workers copy-3.png
+../imported/Constructify_Phone_2 updated/images/Workers copy.png
+../imported/Constructify_Phone_2 updated/images/Workers Screen.png
+../imported/Constructify_Phone_2 updated/images/Workers-2.png
+../imported/Constructify_Phone_2 updated/images/Workers.png
+../imported/Constructify_Phone_2 updated/layers.json
+../imported/Constructify_Phone_2 updated/layers.json.js
+../index.html
+../offline.html
+SETTINGS:
+prefer-online
